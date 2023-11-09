@@ -27,7 +27,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+RMK College of Engineering and Technology proudly established its cybersecurity chapter in October 2023. A dynamic group of college enthusiasts, are dedicated to raising Cyber Awareness and honing cybersecurity skills for our fellow students at RMKCET! The chapter extends exciting opportunities to the software community for active participation in ensuring secure application development. Anticipate engaging events focused on Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking, and much more! Join forces with us to enhance cybersecurity and make the digital realm a safer space!
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -38,7 +38,12 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+## Upcoming Meetup: <br>
+
+"Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
+When ? :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
+Mode :Online <br>
+<img src="assets/images/10.11. with gcode.jpg" width="300" height="300"><br>
 
 <!-- You should delete this comment
 
