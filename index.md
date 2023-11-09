@@ -18,6 +18,26 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
+## Speaker request
+If you like to speak on our upcoming events, Kindly mail us
+* [Aswanth Babu](mailto:aswanth.babu@owasp.org)
+* [Kishan Jai Soorya N](mailto:kishan.soorya@owasp.org)
+
+**Email Format :**
+
+- Speaker name
+- Job Role
+- Company / Organization
+- Country.
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+
+
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 ## Upcoming Meetup: <br>
@@ -25,7 +45,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 "Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
 When ? :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
 Mode :Online <br>
-<img src="assets/images/10.11. with gcode.jpg" width="300" height="300"><br>
+<img src="assets/images/10.11. with gcode.jpg" width="600" height="600"><br>
 
 <!-- You should delete this comment
 
