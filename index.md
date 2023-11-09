@@ -47,7 +47,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 "Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
 When :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
 Mode :Online <br>
-<img src="assets/images/" width="600" height="600"><br>
+<img src="assets/images/Copy of Copy of 10112023.png" width="600" height="600"><br>
 
 <!-- You should delete this comment
 
