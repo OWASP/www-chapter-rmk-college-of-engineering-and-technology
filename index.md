@@ -9,6 +9,8 @@ meetup-group: owasp-rmk-college-of-engineering-and-tech
 ---
 
 ## Welcome
+<img src="assets/images/Logo OWASP.png">
+
 RMK College of Engineering and Technology proudly established its cybersecurity chapter in October 2023. A dynamic group of college enthusiasts, are dedicated to raising Cyber Awareness and honing cybersecurity skills for our fellow students at RMKCET! The chapter extends exciting opportunities to the software community for active participation in ensuring secure application development. Anticipate engaging events focused on Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking, and much more! Join forces with us to enhance cybersecurity and make the digital realm a safer space!
 
 ## Participation
@@ -43,9 +45,9 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ## Upcoming Meetup: <br>
 
 "Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
-When ? :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
+When :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
 Mode :Online <br>
-<img src="assets/images/10.11. with gcode.jpg" width="600" height="600"><br>
+<img src="assets/images/" width="600" height="600"><br>
 
 <!-- You should delete this comment
 
