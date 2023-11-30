@@ -11,7 +11,7 @@ meetup-group: owasp-rmk-college-of-engineering-and-tech
 ## Welcome
 <img src="assets/images/RMKCET.png">
 
-RMK College of Engineering and Technology proudly established its cybersecurity chapter in October 2023. A dynamic group of college enthusiasts, are dedicated to raising Cyber Awareness and honing cybersecurity skills for our fellow students at RMKCET! The chapter extends exciting opportunities to the software community for active participation in ensuring secure application development. Anticipate engaging events focused on Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking, and much more! Join forces with us to enhance cybersecurity and make the digital realm a safer space!
+RMK College of Engineering and Technology, Department Of Cyber Security proudly established its cybersecurity chapter in October 2023. A dynamic group of college enthusiasts, are dedicated to raising Cyber Awareness and honing cybersecurity skills for our fellow students at RMKCET! The chapter extends exciting opportunities to the software community for active participation in ensuring secure application development. Anticipate engaging events focused on Web/App Security, Penetration Testing, Bug Bounty, Ethical Hacking, and much more! Join forces with us to enhance cybersecurity and make the digital realm a safer space!
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -42,7 +42,7 @@ If you like to speak on our upcoming events, Kindly mail us
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-## Upcoming Meetup: <br>
+## Past Meetup: <br>
 
 "Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
 When :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
