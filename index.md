@@ -46,7 +46,14 @@ Next Meeting/Event
 ## Past Meetup: <br>
 
 "Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
-When :NOVEMBER 10 2023 || 10:30 am - 12:30 <br>
+When :NOVEMBER 10 2023 || 10:30 AM - 12:30 PM <br>
 Mode :Online <br>
 <img src="assets/images/Copy of Copy of 10112023.png" width="700" height="500"><br>
+
+## Upcoming Meetup: <br>
+
+"Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
+When :JANUARY 01 2024 || 10:00 AM - 12:00 PM <br>
+Mode :Online <br>
+<img src="assets/images/24012024.png" width="700" height="500"><br>
 
