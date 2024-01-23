@@ -52,8 +52,8 @@ Mode :Online <br>
 
 ## Upcoming Meetup: <br>
 
-"Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
-When :JANUARY 01 2024 || 10:00 AM - 12:00 PM <br>
+"An Expect Talk on "Innovating Security : Cutting-Edge Approaches to Coding Safely" <br>
+When :JANUARY 23 2024 || 10:00 AM - 11:00 AM <br>
 Mode :Online <br>
 <img src="assets/images/24012024.png" width="700" height="500"><br>
 
