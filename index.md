@@ -56,6 +56,7 @@ Mode :Online <br>
 When :JANUARY 23 2024 || 10:00 AM - 11:00 AM <br>
 Mode :Online <br>
 <img src="assets/images/24012024.png" width="700" height="500"><br>
+<br>
 
 ## Upcoming Events: <br>
 
