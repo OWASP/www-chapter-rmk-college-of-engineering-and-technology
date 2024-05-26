@@ -58,10 +58,12 @@ Mode :Online <br>
 <img src="assets/images/24012024.png" width="700" height="500"><br>
 <br>
 
-## Upcoming Events: <br>
-
-1."InnovateSecure: Exploring Cyber Security Innovations in a Hands-on Workshop" <br>
+3."InnovateSecure: Exploring Cyber Security Innovations in a Hands-on Workshop" <br>
 When :FEBRUARY 17 2024 || 09:30 AM - 03:05 PM <br>
 Mode :Offline <br>
 <img src="assets/images/InnovateSecure Hands on Workshop.jpg" width="700" height="500"><br>
+
+## Upcoming Events: <br>
+<b> Coming Soon..... <b>
+
 
