@@ -52,13 +52,13 @@ Mode :Online <br>
 <br>
 
 
-2.An Expect Talk on Innovating Security : Cutting-Edge Approaches to Coding Safely <br>
+2.<b>An Expect Talk on Innovating Security : Cutting-Edge Approaches to Coding Safely</b> <br>
 When :JANUARY 23 2024 || 10:00 AM - 11:00 AM <br>
 Mode :Online <br>
 <img src="assets/images/24012024.png" width="700" height="500"><br>
 <br>
 
-3.InnovateSecure: Exploring Cyber Security Innovations in a Hands-on Workshop <br>
+3.<b>InnovateSecure: Exploring Cyber Security Innovations in a Hands-on Workshop</b> <br>
 When :FEBRUARY 17 2024 || 09:30 AM - 03:05 PM <br>
 Mode :Offline <br>
 <img src="assets/images/InnovateSecure Hands on Workshop.jpg" width="700" height="500"><br>
