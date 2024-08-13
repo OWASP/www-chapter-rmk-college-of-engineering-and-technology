@@ -45,25 +45,26 @@ Next Meeting/Event
 ---------------------
 ## Occured Events: <br>
 
-1."Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques" <br>
+1.<b>Innovative Application of Linux in Cyber Security Explored: Industry Perspective on Hacking Techniques</b> <br>
 When :NOVEMBER 10 2023 || 10:30 AM - 12:30 PM <br>
 Mode :Online <br>
 <img src="assets/images/Copy of Copy of 10112023.png" width="700" height="500"><br>
 <br>
 
 
-2."An Expect Talk on "Innovating Security : Cutting-Edge Approaches to Coding Safely" <br>
+2.An Expect Talk on Innovating Security : Cutting-Edge Approaches to Coding Safely <br>
 When :JANUARY 23 2024 || 10:00 AM - 11:00 AM <br>
 Mode :Online <br>
 <img src="assets/images/24012024.png" width="700" height="500"><br>
 <br>
 
-3."InnovateSecure: Exploring Cyber Security Innovations in a Hands-on Workshop" <br>
+3.InnovateSecure: Exploring Cyber Security Innovations in a Hands-on Workshop <br>
 When :FEBRUARY 17 2024 || 09:30 AM - 03:05 PM <br>
 Mode :Offline <br>
 <img src="assets/images/InnovateSecure Hands on Workshop.jpg" width="700" height="500"><br>
 
 ## Upcoming Events: <br>
+<br>
 <b> Coming Soon..... <b>
 
 
