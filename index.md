@@ -64,10 +64,31 @@ Mode :Offline <br>
 <img src="assets/images/InnovateSecure Hands on Workshop.jpg" width="700" height="500"><br>
 <br>
 
-3.<b>Impact of AI on Criminal Investigations</b> <br>
+4.<b>Impact of AI on Criminal Investigations</b> <br>
 When :AUGUST 13 2024 || 09:00 AM - 10:30 AM <br>
 Mode :Online <br>
 <img src="assets/images/1723458846872.jpeg" width="700" height="500"><br>
+<br>
+
+5.<b>Common Web Vulnerabilities</b> <br>
+When :SEPTEMBER 25 2024 || 10:30 AM - 12:00 PM <br>
+Mode :Offline <br>
+<img src="assets/images/1727262149332.jpeg" width="700" height="500"><br>
+<br>
+
+6.<b>𝗧𝗲𝗰𝗵 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲: 𝗣𝗿𝗼𝗯𝗹𝗲𝗺-𝗦𝗼𝗹𝘃𝗶𝗻𝗴, 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 & 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗠𝗮𝘀𝘁𝗲𝗿𝘆</b> <br>
+When :FEBRUARY 18 2025 || 09:30 AM - 03:05 PM <br>
+Mode :Offline <br>
+<img src="assets/images/1739876119357.jpeg" width="700" height="500"><br>
+<br>
+
+7.<b>National Conference on Emerging Computing Technologies and Innovation Towards Sustainable Solutions (NCECTISS-25)</b> <br>
+When :MARCH 25 2025 || 09:00 AM - 03:05 PM <br>
+Mode :Offline <br>
+<img src="assets/images/1742624788498.jpeg" width="700" height="500"><br>
+<br>
+
+
 ## Upcoming Events: <br>
 <br>
 <b> Coming Soon..... <b>
