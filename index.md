@@ -67,7 +67,7 @@ Mode :Offline <br>
 3.<b>Impact of AI on Criminal Investigations</b> <br>
 When :AUGUST 13 2024 || 09:00 AM - 10:30 AM <br>
 Mode :Online <br>
-<img src="assets/images/InnovateSecure Hands on Workshop.jpg" width="700" height="500"><br>
+<img src="assets/images/1723458846872.jpeg" width="700" height="500"><br>
 ## Upcoming Events: <br>
 <br>
 <b> Coming Soon..... <b>
